@@ -66,7 +66,7 @@ const QuizStart = ({ categories, isLoading, onStart }) => {
 
         <button
           type="submit"
-          className="w-full py-3 px-4 bg-gradient-to-r from-indigo-500 to-purple-600 text-white font-medium rounded-lg shadow-md hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-200"
+          className="w-full py-3 px-4 bg-gradient-to-r from-indigo-600 to-purple-600 text-white font-medium rounded-lg shadow-md hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-200"
           disabled={isLoading}
         >
           Start Quiz
