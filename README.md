@@ -24,7 +24,20 @@ A responsive and interactive Quiz App built with **React**, **Tailwind CSS**, an
 To run this project locally, follow the steps below:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/Binalayefa/quiz-app.git
    cd quiz-app
+   ```
+
+2. **Install Dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start The Development Server**
+
+   ```bash
+   npm run dev
    ```
